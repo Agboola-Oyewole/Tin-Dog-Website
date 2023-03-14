@@ -72,10 +72,15 @@ p {
     padding: 0 20px;
 }
 .nav-link {
+    color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 200;
     font-size: 1.2rem
 }
+.nav-link:hover {
+    color: #fff;
+}
+
 
 
 
