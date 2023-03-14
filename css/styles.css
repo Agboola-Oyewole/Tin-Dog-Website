@@ -216,7 +216,7 @@ p {
 /* Media Query */
 
 @media (max-width: 992px) {
-    #title {
+    .message {
         text-align: center;
     }
 
